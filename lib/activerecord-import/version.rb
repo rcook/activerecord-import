@@ -1,5 +1,5 @@
 module ActiveRecord
   module Import
-    VERSION = "0.4.1"
+    VERSION = "0.7.0"
   end
 end

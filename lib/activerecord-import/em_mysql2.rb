@@ -5,3 +5,4 @@ warn <<-MSG
 MSG
 
 require File.expand_path(File.join(File.dirname(__FILE__),  "/../activerecord-import"))
+
